@@ -1,4 +1,4 @@
-# CodeClause_Task_1.github.io
+# CodeAlpha_Task_1.github.io
 
 ## Task 1
 
